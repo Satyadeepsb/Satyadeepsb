@@ -87,12 +87,7 @@
 </p>
 
 
-## Contribution Graph 📊
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=Satyadeepsb&theme=chartreuse-dark"
-     />
----
 <div align="center">
 
 ### Show some ❤️ by staring some of the repositories!
