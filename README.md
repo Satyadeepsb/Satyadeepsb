@@ -1,7 +1,7 @@
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/satyadeepbasugade92"> SATYADEEP BASUGADE </a></h1>
 <!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Satyadeep Basugade](https://www.linkedin.com/in/ankittojha) !!  -->
 
-<h3 align="center">A passionate Full Stack Software Developer from India</h3>
+<h3 align="center">A passionate Full Stack Software Developer</h3>
 
 <!--
 [![Github](https://img.shields.io/github/followers/ankitojha07?label=Follow&style=social)](https://github.com/ankitojha07)
