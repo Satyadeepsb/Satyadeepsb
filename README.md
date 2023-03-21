@@ -17,7 +17,7 @@
 
 ✨ I’m interested in Open Source, Web Development, Blockchain, Smart Contracts and Programming. <br/>
 
-💬 I would love to talk about career opportunities starting January 2023. </br>
+💬 I would love to talk about career opportunities starting April 2023. </br>
 
 💡 I am currently focusing on Blockchain, Solidity, Smart Contract. A beginner contributor at Open Source. <br/>
 
