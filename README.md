@@ -19,7 +19,7 @@
 
 💬 I would love to talk about career opportunities starting April 2023. </br>
 
-💡 I am currently focusing on Blockchain, Solidity, Smart Contract. A beginner contributor at Open Source. <br/>
+💡 I am currently learning Blockchain, Solidity, Smart Contract. A beginner contributor at Open Source. <br/>
 
 💞️ I’m looking to collaborate on any open source platform. <br />
 
